@@ -24,5 +24,5 @@ For this project, you need both the fron-end and back-end running at the same ti
 
 ### Launch the backend
 ```
-json-server db.json
+npm run backend
 ```
